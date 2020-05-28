@@ -1,0 +1,7 @@
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\dataValida\bin\Debug\dataValida.exe.config
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\dataValida\bin\Debug\dataValida.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\dataValida\bin\Debug\dataValida.pdb
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\dataValida\obj\Debug\dataValida.csprojAssemblyReference.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\dataValida\obj\Debug\dataValida.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\dataValida\obj\Debug\dataValida.exe
+C:\Users\Avatar\Desktop\Aulas\Exercicios decisao\dataValida\obj\Debug\dataValida.pdb
